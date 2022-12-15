@@ -7,7 +7,7 @@ site_description: >-
 copyright: Copyright &copy; 2022 Smile Digital Health
 
 repo_url: https://github.com/cqframework/cqframework.github.io
-repo_name: Clinical Quality Framework (Github)
+repo_name: CQFramework Homepage
 
 
 theme:
