@@ -9,7 +9,11 @@ copyright: Copyright &copy; 2022 Smile Digital Health
 repo_url: https://github.com/cqframework/cqframework.github.io
 repo_name: CQFramework
 
+
 theme:
+  favicon: assets/images/icon/favicon.ico
+
+  logo: assets/images/logo.svg
   name: material
   palette:
     scheme: default

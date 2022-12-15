@@ -9,6 +9,7 @@
 		"redhat.fabric8-analytics",
         "ms-python.python",
 		"DavidAnson.vscode-markdownlint",
-		"yzhang.markdown-all-in-one"
+		"yzhang.markdown-all-in-one",
+		"cschleiden.vscode-github-actions"
 	],
 }
