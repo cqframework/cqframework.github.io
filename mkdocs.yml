@@ -1,0 +1,27 @@
+site_name: CQFramework
+site_url: https://www.cqframework.org/
+site_author: Smile Digital Health
+site_description: >-
+  Homepage for the CQFramework effort
+
+copyright: Copyright &copy; 2022 Smile Digital Health
+
+repo_url: https://github.com/cqframework/cqframework.github.io
+repo_name: CQFramework
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: white
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+
+

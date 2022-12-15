@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"redhat.vscode-yaml",
+		"editorconfig.editorconfig",
+		"streetsidesoftware.code-spell-checker",
+		"streetsidesoftware.code-spell-checker-scientific-terms",
+		"streetsidesoftware.code-spell-checker-medical-terms",
+		"sonarsource.sonarlint-vscode",
+		"redhat.fabric8-analytics",
+        "ms-python.python",
+		"DavidAnson.vscode-markdownlint",
+		"yzhang.markdown-all-in-one"
+	],
+}
