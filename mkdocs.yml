@@ -1,13 +1,13 @@
-site_name: CQFramework
+site_name: Clinical Quality Framework
 site_url: https://www.cqframework.org/
 site_author: Smile Digital Health
 site_description: >-
-  Homepage for the CQFramework effort
+  Homepage for the Clinical Quality Framework (CQF) effort
 
 copyright: Copyright &copy; 2022 Smile Digital Health
 
 repo_url: https://github.com/cqframework/cqframework.github.io
-repo_name: CQFramework
+repo_name: Clinical Quality Framework (Github)
 
 
 theme:
