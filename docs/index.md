@@ -2,7 +2,7 @@
 
 Welcome to Clinical Quality Framework!
 
-The Clinical Quality Framework (CQF) is a joint effort by the Clinical Decision Support and Clinical Quality Information Work Groups to identify, develop, and harmonize standards that promote integration and reuse between Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM).
+The Clinical Quality Framework (CQF) is a joint effort by the [Health Level 7 (HL7)](http://hl7.org) [Clinical Decision Support](https://confluence.hl7.org/display/CDS/WorkGroup+Home) and [Clinical Quality Information](https://confluence.hl7.org/display/CQIWC/Clinical+Quality+Information+Home) Work Groups to identify, develop, and harmonize standards that promote integration and reuse between Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM).
 
 The effort began as a public-private initiative sponsored by the Centers for Medicare and Medicaid Services (CMS) and the Office of the National Coordinator of Health IT (ONC) and has since transitioned to a joint effort within HL7 as the stewards of the specifications involved. Archived information about the CQF Initiative (charter, members, pilots, and meetings) can be found on the ONC Tech Labs Clinical Quality Framework Initiative site.
 
