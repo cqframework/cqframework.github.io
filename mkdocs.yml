@@ -9,6 +9,8 @@ copyright: Copyright &copy; 2022 Smile Digital Health
 repo_url: https://github.com/cqframework/cqframework.github.io
 repo_name: CQFramework Homepage
 
+edit_uri: edit/main/docs
+
 
 theme:
   favicon: assets/images/icon/favicon.ico
@@ -20,6 +22,11 @@ theme:
     primary: white
   icon:
     repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/regular/comments
+      link: https://chat.fhir.org/#narrow/stream/179220-cql
 
 plugins:
   - search
