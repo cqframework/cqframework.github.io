@@ -15,7 +15,7 @@ The effort focuses on two primary use cases:
 
 The [HL7 Confluence](https://confluence.hl7.org/display/CQIWC/Clinical+Quality+Framework) has an overview of the Clinical Quality Framework.
 
-The [Clinical Quality Framework](https://github.com/cqframework) github organization provides github repository support for tooling and content development projects related to Clinical Quality Framework.
+The [Clinical Quality Framework](https://github.com/cqframework) github organization hosts tooling and content development projects related to Clinical Quality Framework.
 
 See the [Projects](projects.md) page for information on some of the projects hosted by CQF.
 
