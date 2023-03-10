@@ -23,6 +23,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
   custom_dir: overrides
+  features:
+    - content.action.edit
 
 extra:
   social:
@@ -38,6 +40,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - toc:
+     permalink: true
 
 nav:
   - Home: index.md
